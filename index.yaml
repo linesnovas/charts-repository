@@ -3,11 +3,16 @@ entries:
   happyhelm:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-11-20T16:56:27.60487+09:00"
+    created: "2019-11-21T12:24:22.757824+09:00"
     description: A Helm chart for Kubernetes
-    digest: 4e46d356f290f7b08f5ccbe08cd4b6f2da5959f102c843206bcf6e0704ca71e1
+    digest: 451e7dd92e0326baa4bde749cba227ec8640d4209b926ee8a260a37416faa541
+    engine: gotpl
+    maintainers:
+    - name: linesnovas
     name: happyhelm
+    sources:
+    - https://github.com/linesnovas/charts-repository
     urls:
-    - https://github.com/linesnovas/charts-repository/happyhelm-0.1.0.tgz
+    - https://linesnovas.github.io/charts-repository/happyhelm-0.1.0.tgz
     version: 0.1.0
-generated: "2019-11-20T16:56:27.602959+09:00"
+generated: "2019-11-21T12:24:22.757232+09:00"

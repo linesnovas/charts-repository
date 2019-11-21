@@ -3,3 +3,9 @@ appVersion: "1.0"
 description: A Helm chart for Kubernetes
 name: happyhelm
 version: 0.1.0
+sources:
+ - https://github.com/linesnovas/charts-repository
+maintainers:
+ - name: linesnovas
+engine: gotpl
+
